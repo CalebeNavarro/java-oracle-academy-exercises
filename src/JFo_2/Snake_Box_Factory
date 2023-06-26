@@ -1,0 +1,26 @@
+Problema 3: a Snake Box Factory
+Visão Geral
+
+Na Snake Box Factory, uma empresa reconhecida internacionalmente, temos o orgulho de sermos capazes de produzir caixas de papelão personalizadas e com o mais alto padrão de qualidade.
+As caixas que produzimos são preenchidas com cobras de altíssima qualidade e personalizadas de acordo com as necessidades do cliente. Atendemos a milhares de contas no mundo inteiro e 
+atingimos um nível sólido de 98% de satisfação dos clientes. No entanto, todo o processo de pedidos no momento é escrito em papelão, que é transportado entre os departamentos usando uma 
+cobra transportadora. Pensamos que essa seria uma maneira adequada de mostrar confiança na qualidade e utilidade do nosso produto. Mas, à medida que nossa empresa continua a crescer,
+ estamos percebendo que isso não foi uma boa ideia. Acreditamos que este seja o momento de adotarmos um método mais convencional e digitalizado em nossas operações.
+ Você poderia ajudar-nos a desenvolver o software necessário para isso?
+
+ Tarefas
+
+Leia o cenário encontrado na visão geral e considere quais objetos poderiam ser modelados como parte da criação de uma solução de software.
+Identifique três objetos neste cenário (lembre-se de que os objetos podem ser tangíveis ou abstratos). Liste três propriedades e três comportamentos pertencentes a cada objeto.
+
+Objeto: Caixa_de_Papelao
+    Propriedades: Cor, Modelo e Tamanho
+    Comportamentos: Elaborada, Vendida e Transportada
+
+Objeto: Pedido
+    Propriedades: 
+    Comportamentos: Preparado, Enviado e Recebido
+
+Objeto: Cliente
+    Propriedades: Nome, Endereço e CPF
+    Comportamentos: Cadastra, Compra, Recebido
